@@ -6,10 +6,10 @@ permalink: /about/
 
 Tak tady budu vytvářet svůj projekt do ňami.
 
-### More Information
+### Další informace
 
 Brzy by tu snad měla vzniknout stránka o spisovatelce Åse Lind.
 
-### Contact me
+### Kontakt
 
-[email@domain.com](mailto:email@domain.com)
+[vera.e.dobruska@gmail.com](mailto:vera.e.dobruska@gmail.com)
