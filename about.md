@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Tak tady budu vytvářet svůj projekt do ňami.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Brzy by tu snad měla vzniknout stránka o spisovatelce Åse Lind.
 
 ### Contact me
 
