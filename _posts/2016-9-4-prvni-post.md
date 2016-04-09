@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: Co to bude, až to bude? Pán Bůh ví!
 ---
