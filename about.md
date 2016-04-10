@@ -6,10 +6,10 @@ permalink: /about/
 
 Stránka o životním díle Terence McKenny.
 
-### More Information
+### Další informace
 
 Tady určitě brzy bude něco skvělého a úžasného!
 
-### Contact me
+### Kontakt
 
 [kellerrichartmuni@gmail.com](mailto:kellerrichartmuni@gmail.com)
